@@ -1,3 +1,4 @@
+# Adiciona elementos ao conjunto mas só se ele não existir previamente.
 sorteio = {1, 23}
 
 sorteio.add(25)  # {1, 23, 25}
