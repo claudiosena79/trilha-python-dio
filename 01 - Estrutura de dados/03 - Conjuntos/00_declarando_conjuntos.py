@@ -6,3 +6,9 @@ print(letras)  # {"b", "a", "c", "x", "i"}
 
 carros = set(("palio", "gol", "celta", "palio"))
 print(carros)  # {"gol", "celta", "palio"}
+
+# Um conjunto pode ser declarado direto entre {chaves}
+linguagens = {"python", "java", "python"}
+print(linguagens)
+
+# O resultado do set não necessariamente será na ordem lógica em que foi declarado.
