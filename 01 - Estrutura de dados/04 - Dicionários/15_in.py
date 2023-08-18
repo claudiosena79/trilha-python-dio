@@ -4,7 +4,7 @@ contatos = {
     "chappie@gmail.com": {"nome": "Chappie", "telefone": "3344-9871"},
     "melaine@gmail.com": {"nome": "Melaine", "telefone": "3333-7766"},
 }
-
+# O in verifica se uma chave existe ou não no dicionário
 resultado = "guilherme@gmail.com" in contatos  # True
 print(resultado)
 
